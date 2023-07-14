@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/v/Desktop/CSE180/src/lab2/build",
+  "command": "/usr/bin/clang++-10  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include  -g   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/posesensor.dir/src/posesensor.cpp.o -c /home/v/Desktop/CSE180/src/lab2/src/posesensor.cpp",
+  "file": "/home/v/Desktop/CSE180/src/lab2/src/posesensor.cpp"
+},
+{
+  "directory": "/home/v/Desktop/CSE180/src/lab2/build",
+  "command": "/usr/bin/clang++-10  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include  -g   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/moveturtle.dir/src/moveturtle.cpp.o -c /home/v/Desktop/CSE180/src/lab2/src/moveturtle.cpp",
+  "file": "/home/v/Desktop/CSE180/src/lab2/src/moveturtle.cpp"
+}
+]

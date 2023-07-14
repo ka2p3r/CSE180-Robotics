@@ -1,0 +1,11 @@
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/install/local.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/install.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/list_install_components.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/rebuild_cache.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/edit_cache.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/test.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/posesensor.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/install/strip.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/moveturtle.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/lab2_uninstall.dir
+/home/v/Desktop/CSE180/src/lab2/build/CMakeFiles/uninstall.dir
